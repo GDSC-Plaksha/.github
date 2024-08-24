@@ -9,7 +9,7 @@ Our goal is to build an inclusive community of students who want to learn about 
 
 ## Get Involved
 
-Our community is working on building some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved. Feel free to contribute to any of our repositories. Check them out [here](https://github.com/orgs/GDSC-Plaksha/repositories).
+Our community is working on building some amazing projects together. Check them out [here](https://github.com/orgs/GDSC-Plaksha/repositories).
 
 <div align="center">
 <h3>Connect With us on</h3>
